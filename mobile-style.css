@@ -1,0 +1,19 @@
+@media only screen and (max-width: 768px){
+
+}
+@media only screen and (max-width: 375px){
+    #main{
+        text-align: center;
+        margin-left: 1.0em;
+    }
+    #main h1{
+        font-size: 1.8em;
+    }
+    #leg h1{
+        font-size: 1.4em;
+    }
+    .carousel-item{
+        width: 20em;
+        height: 15em;
+    }
+}

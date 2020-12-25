@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  margin: 0;
+}
+header,main{
+    overflow-x: hidden;
+}
+header{
+    background-color:black;
+    color:whitesmoke;
+    font: 1em sans-serif;
+}
+header a{
+    color: wheat;
+}
+form{
+    background-color: white;
+    padding: 0.5em;
+    color: black;
+}
+main{
+    padding-top: 5em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.562);
+    padding-bottom: 3em;
+}
+section{
+    padding-top: 2em;
+}
+   footer p{
+    padding-top: 0.2em;
+    font: 1.2em sans-serif;
+   }
+.carousel-item{
+    width: 30em;
+    height: 25em;
+}
